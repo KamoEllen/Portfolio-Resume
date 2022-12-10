@@ -6,7 +6,7 @@ function Service() {
     <div className="service component__space" id="Services">
 
       <div className="heading">
-        <h1 className="heading">My Awesome Service</h1>
+        <h1 className="heading">Service</h1>
         <p className="heading p__color">
           There are many variations of passages of Lorem Ipsum available,
         </p>
@@ -36,14 +36,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Business Stratagy</h1>
+                <h1 className="service__text">Ux/Ui Design</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
@@ -70,12 +70,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Website Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
@@ -101,14 +101,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Mobile App Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
@@ -135,12 +135,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Mobile App Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
@@ -166,14 +166,14 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Mobile App Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
@@ -200,12 +200,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Mobile App Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                ----------------------------
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as I lie
+                ----------------------------
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color"> ----------------------------</p>
               </div>
             </div>
           </div>
